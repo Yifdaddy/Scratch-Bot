@@ -1,3 +1,5 @@
+<!-- Main page of the scratch bot website -->
+
 <?php include 'header.php';?>
 
 <script src="blockly/blockly_compressed.js"></script>
