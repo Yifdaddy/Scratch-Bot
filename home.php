@@ -21,8 +21,7 @@
 <!-- Banner -->
 <section id="banner">
     <h2>ScratchBot</h2>
-    <p>Next generation scratchBot
-        Bot generator <br /> For resaurant owner!</p>
+    <p>Next generation chat-bot generator <br /> For resaurant owner!</p>
     <ul class="actions">
         <li><a href="#" class="button special big">Get Started</a></li>
     </ul>
@@ -41,14 +40,13 @@
             <div class="6u$ 12u$(medium)">
                 <p>
                     Powered by Google Blockly, the user can use our website to build a unique scratchBot
-                    Bot suits their
+                    suits their
                     restaurant service easily. User can focus on the function they want on the scratchBot
-                    Bot and worries
+                    and worries
                     nothing about how the code is accomplished.
                 </p>
                 <p>
-                    The website supports comprehensive functions to the scratchBot
-                    Bot. Personalized greeting, personalize
+                    The website supports comprehensive functions to the scratchBot. Personalized greeting, personalize
                     menu, take orders and etc.
                 </p>
             </div>
@@ -58,13 +56,11 @@
         <div class="row 200%">
             <div class="6u 12u$(medium)">
                 <p>
-                    scratchBot
-                    Bot integrated database that stores user information for the restaurant customer. Once setup,
+                    scratchBot integrated database that stores user information for the restaurant customer. Once setup,
                     user won't need to input any other information.
                 </p>
                 <p>
-                    scratchBot
-                    Bot supports user login, make it possible to be used in any machine.
+                    scratchBot supports user login, make it possible to be used in any machine.
                 </p>
             </div>
             <div class="6u$ 12u$(medium)">
@@ -89,11 +85,9 @@
                 <div class="content">
                     <header>
                         <h4>Login/Signup</h4>
-                        <p>build scratchBot
-                            Bot anywhere</p>
+                        <p>build scratchBot anywhere</p>
                     </header>
-                    <p>User can login and store scratchBot
-                        Bot in their own account and can work on them later.</p>
+                    <p>User can login and store scratchBot in their own account and can work on them later.</p>
                 </div>
             </div>
             <div class="feature">
@@ -110,26 +104,20 @@
                 <div class="image rounded"><img src="images/pic06.jpg" alt="" /></div>
                 <div class="content">
                     <header>
-                        <h4>Online scratchBot
-                            Bot Service</h4>
+                        <h4>Online scratchBot Service</h4>
                         <p>For the customer</p>
                     </header>
-                    <p>User can upload the scratchBot
-                        Bot online. The scratchBot
-                        Bot will provide service independently</p>
+                    <p>User can upload the scratchBot online. The scratchBot will provide service independently</p>
                 </div>
             </div>
             <div class="feature">
                 <div class="image rounded"><img src="images/pic07.jpg" alt="" /></div>
                 <div class="content">
                     <header>
-                        <h4>Share your scratchBot
-                            Bot</h4>
+                        <h4>Share your scratchBot</h4>
                         <p>For the benefits of the community</p>
                     </header>
-                    <p>Share your scratchBot
-                        Bot to the community. Other scratchBot
-                        Bot user can build theirs base on your design</p>
+                    <p>Share your scratchBot to the community. Other scratchBot user can build theirs base on your design</p>
                 </div>
             </div>
         </div>
@@ -159,38 +147,16 @@
                 </a>
             </div>
         </div>
-        <ul class="actions">
-            <li><a href="about.php" class="button special big">About Us</a></li>
-            <li><a href="help.php" class="button big">Help</a></li>
-        </ul>
-    </div>
-</section>
-
-<!-- Four -->
-<section id="four" class="wrapper style3 special">
-    <div class="container">
-        <header class="major">
-            <h2>Aenean elementum ligula</h2>
-            <p>Feugiat sed lorem ipsum magna</p>
-        </header>
-        <ul class="actions">
-            <li><a href="#" class="button special big">Get in touch</a></li>
-        </ul>
     </div>
 </section>
 
 <!-- Footer -->
 <footer id="footer">
     <div class="container">
-        <ul class="icons">
-            <li><a href="#" class="icon fa-facebook"></a></li>
-            <li><a href="#" class="icon fa-twitter"></a></li>
-            <li><a href="#" class="icon fa-instagram"></a></li>
-        </ul>
         <ul class="copyright">
-            <li>&copy; Untitled</li>
-            <li>Design: <a href="http://templated.co">TEMPLATED</a></li>
-            <li>Images: <a href="http://unsplash.com">Unsplash</a></li>
+            <li>&copy; ScratchBot</li>
+            <li>Intro to Software Engineering team</li>
+            <li>GitHub: <a href="https://github.com/uiowa-cs-5800-0001-fall-2018/Scratch-Bot">ScratchBot</a></li>
         </ul>
     </div>
 </footer>
