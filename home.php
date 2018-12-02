@@ -1,3 +1,6 @@
+<?php include 'header.php';?>
+
+
 <!DOCTYPE HTML>
 <!--
 	Spatial by TEMPLATED
@@ -6,7 +9,7 @@
 -->
 <html>
 <head>
-    <title>Scratch Bot Home</title>
+    <title>ScratchBot Home</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -17,8 +20,9 @@
 
 <!-- Banner -->
 <section id="banner">
-    <h2>Scratch Bot</h2>
-    <p>Next generation chatBot generator <br /> For resaurant owner!</p>
+    <h2>ScratchBot</h2>
+    <p>Next generation scratchBot
+        Bot generator <br /> For resaurant owner!</p>
     <ul class="actions">
         <li><a href="#" class="button special big">Get Started</a></li>
     </ul>
@@ -36,12 +40,15 @@
             </div>
             <div class="6u$ 12u$(medium)">
                 <p>
-                    Powered by Google Blockly, the user can use our website to build a unique chatBot suits their
-                    restaurant service easily. User can focus on the function they want on the chatBot and worries
+                    Powered by Google Blockly, the user can use our website to build a unique scratchBot
+                    Bot suits their
+                    restaurant service easily. User can focus on the function they want on the scratchBot
+                    Bot and worries
                     nothing about how the code is accomplished.
                 </p>
                 <p>
-                    The website supports comprehensive functions to the chatBot. Personalized greeting, personalize
+                    The website supports comprehensive functions to the scratchBot
+                    Bot. Personalized greeting, personalize
                     menu, take orders and etc.
                 </p>
             </div>
@@ -51,11 +58,13 @@
         <div class="row 200%">
             <div class="6u 12u$(medium)">
                 <p>
-                    Website supports user login, make it possible to be used in any machine.
+                    scratchBot
+                    Bot integrated database that stores user information for the restaurant customer. Once setup,
+                    user won't need to input any other information.
                 </p>
                 <p>
-                    The website supports comprehensive functions to the chatBot. Personalized greeting, personalize
-                    menu, take orders and etc.
+                    scratchBot
+                    Bot supports user login, make it possible to be used in any machine.
                 </p>
             </div>
             <div class="6u$ 12u$(medium)">
@@ -69,85 +78,91 @@
     </div>
 </section>
 
-
-
-<!-- Two -->
-<section id="two" class="wrapper style2 special">
-    <div class="container">
-        <header class="major">
-            <h2>Fusce ultrices fringilla</h2>
-            <p>Maecenas vitae tellus feugiat eleifend</p>
-        </header>
-        <div class="row 150%">
-            <div class="6u 12u$(xsmall)">
-                <div class="image fit captioned">
-                    <img src="images/pic02.jpg" alt="" />
-                    <h3>Lorem ipsum dolor sit amet.</h3>
-                </div>
-            </div>
-            <div class="6u$ 12u$(xsmall)">
-                <div class="image fit captioned">
-                    <img src="images/pic03.jpg" alt="" />
-                    <h3>Illum, maiores tempora cupid?</h3>
-                </div>
-            </div>
-        </div>
-        <ul class="actions">
-            <li><a href="#" class="button special big">Nulla luctus</a></li>
-            <li><a href="#" class="button big">Sed vulputate</a></li>
-        </ul>
-    </div>
-</section>
-
-<!-- Three -->
-<section id="three" class="wrapper style1">
+<section class="wrapper style2">
     <div class="container">
         <header class="major special">
-            <h2>Mauris vulputate dolor</h2>
-            <p>Feugiat sed lorem ipsum magna</p>
+            <h2>Features</h2>
         </header>
         <div class="feature-grid">
             <div class="feature">
                 <div class="image rounded"><img src="images/pic04.jpg" alt="" /></div>
                 <div class="content">
                     <header>
-                        <h4>Lorem ipsum</h4>
-                        <p>Lorem ipsum dolor sit</p>
+                        <h4>Login/Signup</h4>
+                        <p>build scratchBot
+                            Bot anywhere</p>
                     </header>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore esse tenetur accusantium porro omnis, unde mollitia totam sit nesciunt consectetur.</p>
+                    <p>User can login and store scratchBot
+                        Bot in their own account and can work on them later.</p>
                 </div>
             </div>
             <div class="feature">
                 <div class="image rounded"><img src="images/pic05.jpg" alt="" /></div>
                 <div class="content">
                     <header>
-                        <h4>Recusandae nemo</h4>
-                        <p>Ratione maiores a, commodi</p>
+                        <h4>drag-and-design</h4>
+                        <p>Intuitive way without coding background</p>
                     </header>
-                    <p>Animi mollitia optio culpa expedita. Dolorem alias minima culpa repellat. Dolores, fuga maiores ut obcaecati blanditiis, at aperiam doloremque.</p>
+                    <p>personalized greeting, personalize menu, take orders.</p>
                 </div>
             </div>
             <div class="feature">
                 <div class="image rounded"><img src="images/pic06.jpg" alt="" /></div>
                 <div class="content">
                     <header>
-                        <h4>Laudantium fugit</h4>
-                        <p>Possimus ex reprehenderit eaque</p>
+                        <h4>Online scratchBot
+                            Bot Service</h4>
+                        <p>For the customer</p>
                     </header>
-                    <p>Maiores iusto inventore fugit architecto est iste expedita commodi sed, quasi feugiat nam neque mollitia vitae omnis, ea natus facere.</p>
+                    <p>User can upload the scratchBot
+                        Bot online. The scratchBot
+                        Bot will provide service independently</p>
                 </div>
             </div>
             <div class="feature">
                 <div class="image rounded"><img src="images/pic07.jpg" alt="" /></div>
                 <div class="content">
                     <header>
-                        <h4>Porro aliquam</h4>
-                        <p>Quaerat, excepturi eveniet laboriosam</p>
+                        <h4>Share your scratchBot
+                            Bot</h4>
+                        <p>For the benefits of the community</p>
                     </header>
-                    <p>Vitae earum unde, autem labore voluptas ex, iste dolorum inventore natus consequatur iure similique obcaecati aut corporis hic in! Porro sed.</p>
+                    <p>Share your scratchBot
+                        Bot to the community. Other scratchBot
+                        Bot user can build theirs base on your design</p>
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="wrapper style1 special">
+    <div class="container">
+        <header class="major">
+            <h2>Questions about us or the scratchBot?</h2>
+        </header>
+        <div class="row 150%">
+            <div class="6u 12u$(xsmall)">
+                <a href="about.php">
+                    <div class="image fit captioned">
+                        <img src="images/pic02.jpg" alt="" />
+                        <h3>Meet the ScratchBot Team!</h3>
+                    </div>
+                </a>
+            </div>
+            <div class="6u$ 12u$(xsmall)">
+                <a href="help.php">
+                    <div class="image fit captioned">
+                        <img src="images/pic03.jpg" alt="" />
+                        <h3>Read the tutorial!</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <ul class="actions">
+            <li><a href="about.php" class="button special big">About Us</a></li>
+            <li><a href="help.php" class="button big">Help</a></li>
+        </ul>
     </div>
 </section>
 
