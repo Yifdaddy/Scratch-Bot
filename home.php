@@ -2,11 +2,6 @@
 
 
 <!DOCTYPE HTML>
-<!--
-	Spatial by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
 <html>
 <head>
     <title>ScratchBot Home</title>
@@ -28,7 +23,7 @@
 </section>
 
 <!-- Intuitive and Powerful -->
-<section id="one" class="wrapper style1">
+<section class="wrapper style1">
     <div class="container 75%">
         <div class="row 200%">
             <div class="6u 12u$(medium)">
@@ -150,16 +145,7 @@
     </div>
 </section>
 
-<!-- Footer -->
-<footer id="footer">
-    <div class="container">
-        <ul class="copyright">
-            <li>&copy; ScratchBot</li>
-            <li>Intro to Software Engineering team</li>
-            <li>GitHub: <a href="https://github.com/uiowa-cs-5800-0001-fall-2018/Scratch-Bot">ScratchBot</a></li>
-        </ul>
-    </div>
-</footer>
+
 
 <!-- Scripts -->
 <script src="assets/js/jquery.min.js"></script>
@@ -169,3 +155,5 @@
 
 </body>
 </html>
+
+<?php include 'footer.php';?>
